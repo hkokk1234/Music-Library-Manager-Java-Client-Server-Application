@@ -96,4 +96,4 @@ Everything is saved with plain Java serialization to `.ser` files — no real da
 
 ## Authors
 
-Stavros Moschis, Zacharias Kokkinakis.
+Stavros Moschis, Zacharias Kokkinakis
